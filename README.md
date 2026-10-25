@@ -362,6 +362,18 @@ Senior engineers bridge engineering execution with vendor contracts and client e
 
 ---
 
+## 🌟 Featured Engineering Projects & Portals
+
+<div align="center">
+
+| Project / Repository | Focus & Domain | Live Links |
+| :--- | :--- | :---: |
+| 🌐 **[DevOps-Interview-QA](https://github.com/satyendrasingh2006/DevOps-Interview-QA)** | **Interactive DevOps Interview Portal** with 1,000+ curated questions & answers across Terraform, Azure, Azure DevOps, Docker, Kubernetes, Linux, and FinOps | [🚀 **Live Portal**](https://satyendrasingh2006.github.io/DevOps-Interview-QA/) &bull; [📂 **GitHub Repo**](https://github.com/satyendrasingh2006/DevOps-Interview-QA) |
+
+</div>
+
+---
+
 ## 🛠️ Technical Arsenal & Core Stack
 
 <div align="center">
