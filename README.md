@@ -1,47 +1,51 @@
 <div align="center">
 
-  <!-- Sleek Glowing Banner matching Portfolio Header -->
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0a1118,50:09233f,100:0088d8&height=130&section=header&text=Satyendra%20Singh&fontSize=42&fontColor=ffffff&fontAlignY=55&desc=Enterprise%20Cloud%20Architect%20%7C%20Lead%20DevSecOps%20%7C%20AI%20Systems&descAlignY=78&descSize=16&descAlign=50" width="100%" alt="Satyendra Singh Header Banner"/>
+  <h1>⚡ BHAKUA ENGINEER ⚡</h1>
+  <p><b>Satyendra Singh</b> &bull; 10+ Years Enterprise Cloud &amp; DevSecOps Leadership</p>
 
-  <br/><br/>
+  <h3>Principal Cloud Architect &bull; Enterprise DevSecOps Strategist &bull; Agentic AI Systems Engineer</h3>
 
-  <h2>🔐 Senior DevSecOps Engineer & Cloud Architect | Agentic AI Systems</h2>
-  
-  <p align="center">
-    <b>Enterprise Cloud Infrastructure &bull; Zero-Trust Security &bull; GitOps Automation &bull; Autonomous SRE</b>
-  </p>
+  <p><i>Specializing in High-Scale Multi-Cloud Landing Zones, Zero-Trust Shift-Left Delivery, and Autonomous Agentic AI SRE Infrastructure.</i></p>
 
-  <!-- Animated Typing SVG -->
+  <!-- Glowing Animated Cyan Title matching Design -->
   <a href="https://github.com/satyendrasingh2006">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2600&pause=900&color=00D2FF&center=true&vCenter=true&multiline=true&width=820&height=75&lines=10%2B+Years+Enterprise+Cloud+Transformation+%26+Platform+Engineering;100%2B+Production+Enterprise+Workloads+Migrated+to+Azure+with+Zero+Downtime;Production+DevSecOps+%7C+Terraform+GitOps+%7C+FinOps+Cost+Governance;Pioneering+Agentic+DevOps+%7C+Model+Context+Protocol+(MCP)+%7C+Enterprise+RAG" alt="Typing Animation"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=17&duration=2500&pause=800&color=00D2FF&center=true&vCenter=true&multiline=true&width=800&height=50&lines=Enterprise+Cloud+Adoption+Framework+(CAF)+%26+Landing+Zones;10%2B+Years+Enterprise+Experience+%7C+100%2B+Workloads+Migrated;Zero-Trust+DevSecOps+%7C+Terraform+GitOps+%7C+FinOps+Cost+Engineering;Model+Context+Protocol+(MCP)+%7C+Enterprise+RAG+%7C+Autonomous+SRE" alt="Enterprise Cloud Adoption Framework (CAF) & Landing Zones"/>
   </a>
 
   <br/><br/>
 
-  <!-- Exact Stacked Badges from Visual Design -->
+  <!-- Exact Stacked Two-Tone Badges from Reference Image -->
   <p align="center">
     <a href="https://linkedin.com/in/satyendra-singh">
       <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=333333" alt="LinkedIn Connect"/>
     </a>
-    <br/>
+    &nbsp;
     <a href="https://github.com/satyendrasingh2006">
-      <img src="https://img.shields.io/badge/GITHUB-REPOSITORIES-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=4F4F4F" alt="GitHub Repositories"/>
+      <img src="https://img.shields.io/badge/GITHUB-PROFILE-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=333333" alt="GitHub Profile"/>
     </a>
     <br/>
     <a href="mailto:satyendrasingh2006Sep26@b18g1.online">
-      <img src="https://img.shields.io/badge/STATUS-AVAILABLE_FOR_SENIOR_ROLES-1E7E34?style=for-the-badge&logo=target&logoColor=white&labelColor=374151" alt="Available for Senior Roles"/>
+      <img src="https://img.shields.io/badge/EMAIL-DIRECT_INQUIRY-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=333333" alt="Direct Inquiry"/>
     </a>
+    <br/>
+    <a href="mailto:satyendrasingh2006Sep26@b18g1.online?subject=Schedule%20Architecture%20Sync">
+      <img src="https://img.shields.io/badge/CALENDLY-SCHEDULE_ARCHITECTURE_SYNC-006BFF?style=for-the-badge&logo=calendly&logoColor=white&labelColor=333333" alt="Schedule Architecture Sync"/>
+    </a>
+    <br/>
+    <img src="https://img.shields.io/badge/CONTROL_PLANE-ONLINE-00C853?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=333333" alt="Control Plane Online"/>
   </p>
 
 </div>
 
 ---
 
-## 👋 About Me
+## 🌐 Executive Summary & Architectural Philosophy
 
-I am **Satyendra Singh**, a **Staff / Principal Cloud Architect and Lead DevSecOps Engineer** with **10+ years of enterprise experience** designing, automating, and operating mission-critical cloud platforms. 
+> *"Architecture is not merely about assembling tools; it is the strategic translation of mission-critical business objectives into scalable, resilient, zero-trust, and financially optimized distributed systems."*
 
-Throughout my career, I have bridged high-level business strategy with deep, hands-on infrastructure execution. My track record spans architecting **Zero-Downtime Cloud Migrations of 100+ Enterprise Workloads**, governing enterprise-wide **Azure Landing Zones (Cloud Adoption Framework)**, implementing **Zero-Trust DevSecOps Pipelines** with shift-left security, and slashing millions in cloud waste through **FinOps cost engineering**.
+As a **Principal Cloud & DevSecOps Solutions Architect**, I specialize in designing and executing end-to-end cloud transformations, resilient multi-cloud landing zones, automated zero-trust pipelines, and autonomous agentic AI SRE systems. With **10+ years of battle-tested enterprise experience**, I empower organizations to scale fearlessly while optimizing costs and maintaining uncompromising security baselines.
+
+My track record spans architecting **Zero-Downtime Cloud Migrations of 100+ Enterprise Workloads**, governing enterprise-wide **Azure Landing Zones (Cloud Adoption Framework)**, implementing **Zero-Trust DevSecOps Pipelines** with shift-left security, and slashing millions in cloud waste through **FinOps cost engineering**.
 
 Today, as modern engineering embraces artificial intelligence, I lead the convergence of **DevSecOps with Agentic AI**: deploying **Model Context Protocol (MCP)** servers to allow secure AI agent execution, building **Enterprise RAG (Retrieval-Augmented Generation)** knowledge engines for automated on-call incident triage, and deploying **Autonomous DevOps Agents** for self-healing infrastructure.
 
