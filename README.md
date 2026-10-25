@@ -1,7 +1,7 @@
 <div align="center">
 
-  <h1>⚡ BHAKUA ENGINEER ⚡</h1>
-  <p><b>Satyendra Singh</b> &bull; 10+ Years Enterprise Cloud &amp; DevSecOps Leadership</p>
+  <h1>⚡ SATYENDRA SINGH ⚡</h1>
+  <p><b>10+ Years Enterprise Cloud &amp; DevSecOps Leadership</b></p>
 
   <h3>Principal Cloud Architect &bull; Enterprise DevSecOps Strategist &bull; Agentic AI Systems Engineer</h3>
 
